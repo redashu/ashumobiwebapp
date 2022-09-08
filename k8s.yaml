@@ -6,7 +6,7 @@ metadata:
     app: d1
   name: d1
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: d1
